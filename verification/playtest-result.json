@@ -1,0 +1,397 @@
+{
+  "outcome": "won",
+  "simulationSeconds": 56.39999999999936,
+  "coinsLeft": 270,
+  "xp": 231,
+  "harvests": 12,
+  "orders": [
+    "bread",
+    "soup",
+    "cake",
+    "salad",
+    "bouquet"
+  ],
+  "bestScore": 2560,
+  "afterSaleCoins": 139,
+  "consoleErrors": [],
+  "checks": [
+    "pointer planting",
+    "watering",
+    "harvesting",
+    "barn sale",
+    "seed purchase",
+    "animal purchase",
+    "plot purchase",
+    "all five orders",
+    "animal duplicate collection rejected",
+    "pause",
+    "mute",
+    "autosave reload",
+    "restart",
+    "keyboard planting",
+    "960x540 viewport",
+    "CZ exists on title, moves to clicked bay, reroutes and celebrates after win",
+    "crypto title, BTC/ETH/SOL/DOGE and GPU/Hash theme",
+    "music starts only after gesture",
+    "audio settings persist",
+    "three difficulties",
+    "Market Day growth gift",
+    "Free Trade after win",
+    "390x844 and 844x390 proportional fit"
+  ],
+  "trace": [
+    {
+      "action": "settings",
+      "time": 94
+    },
+    {
+      "action": "close-settings",
+      "time": 94
+    },
+    {
+      "action": "difficulty",
+      "id": "rush",
+      "time": 94
+    },
+    {
+      "action": "difficulty",
+      "id": "relaxed",
+      "time": 94
+    },
+    {
+      "action": "difficulty",
+      "id": "normal",
+      "time": 94
+    },
+    {
+      "action": "start",
+      "time": 0
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 0
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 0.7333333333333333
+    },
+    {
+      "action": "select-seed",
+      "id": "carrot",
+      "time": 2.1333333333333355
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 2.1333333333333355
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 2.1333333333333355
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 2.1333333333333355
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 2.1333333333333355
+    },
+    {
+      "action": "shop",
+      "time": 3.133333333333332
+    },
+    {
+      "action": "shop-tab",
+      "id": "animals",
+      "time": 4.133333333333328
+    },
+    {
+      "action": "buy-animal",
+      "id": "hen",
+      "time": 5.2333333333333245
+    },
+    {
+      "action": "close",
+      "time": 6.233333333333321
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 15.33333333333329
+    },
+    {
+      "action": "orders",
+      "time": 16.599999999999984
+    },
+    {
+      "action": "deliver",
+      "id": "bread",
+      "time": 17.733333333333373
+    },
+    {
+      "action": "deliver",
+      "id": "soup",
+      "time": 18.600000000000083
+    },
+    {
+      "action": "close",
+      "time": 19.433333333333458
+    },
+    {
+      "action": "barn",
+      "time": 20.300000000000168
+    },
+    {
+      "action": "sell",
+      "id": "oat",
+      "time": 21.100000000000207
+    },
+    {
+      "action": "close",
+      "time": 21.900000000000247
+    },
+    {
+      "action": "market",
+      "time": 25.93333333333378
+    },
+    {
+      "action": "market-choice",
+      "id": "growth",
+      "time": 27.0000000000005
+    },
+    {
+      "action": "shop",
+      "time": 27.633333333333866
+    },
+    {
+      "action": "shop-tab",
+      "id": "seeds",
+      "time": 28.100000000000556
+    },
+    {
+      "action": "buy-seed",
+      "id": "tomato",
+      "time": 28.833333333333925
+    },
+    {
+      "action": "buy-seed",
+      "id": "daisy",
+      "time": 29.40000000000062
+    },
+    {
+      "action": "shop-tab",
+      "id": "land",
+      "time": 30.100000000000655
+    },
+    {
+      "action": "buy-plot",
+      "time": 30.73333333333402
+    },
+    {
+      "action": "close",
+      "time": 31.500000000000725
+    },
+    {
+      "action": "select-seed",
+      "id": "tomato",
+      "time": 32.200000000000735
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 32.200000000000735
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 32.200000000000735
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 32.200000000000735
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 32.200000000000735
+    },
+    {
+      "action": "select-seed",
+      "id": "daisy",
+      "time": 32.83333333333403
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 32.83333333333403
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 32.83333333333403
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 32.83333333333403
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 32.83333333333403
+    },
+    {
+      "action": "select-seed",
+      "id": "carrot",
+      "time": 33.63333333333399
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 33.63333333333399
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 33.63333333333399
+    },
+    {
+      "action": "select-seed",
+      "id": "oat",
+      "time": 34.33333333333395
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 34.33333333333395
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 34.33333333333395
+    },
+    {
+      "action": "continue",
+      "time": 34.33333333333395
+    },
+    {
+      "action": "plot",
+      "id": 0,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "plot",
+      "id": 1,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "plot",
+      "id": 2,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "plot",
+      "id": 3,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "plot",
+      "id": 4,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "plot",
+      "id": 5,
+      "time": 44.83333333333335
+    },
+    {
+      "action": "orders",
+      "time": 53.69999999999951
+    },
+    {
+      "action": "deliver",
+      "id": "cake",
+      "time": 54.433333333332804
+    },
+    {
+      "action": "deliver",
+      "id": "salad",
+      "time": 55.399999999999416
+    },
+    {
+      "action": "deliver",
+      "id": "bouquet",
+      "time": 56.39999999999936
+    },
+    {
+      "action": "free-farm",
+      "time": 56.39999999999936
+    },
+    {
+      "action": "start",
+      "time": 0
+    }
+  ]
+}

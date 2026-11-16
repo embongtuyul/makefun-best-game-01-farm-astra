@@ -1,0 +1,198 @@
+{
+  "checks": [
+    "loss boundary from 479-second save fixture",
+    "restart after loss",
+    "blur pauses",
+    "resume",
+    "corrupt save fallback",
+    "all major panels inside 1280x720 viewport"
+  ],
+  "errors": [],
+  "layouts": [
+    {
+      "scene": "title",
+      "layout": [
+        {
+          "name": "title-card",
+          "x": 65,
+          "y": 55,
+          "width": 420,
+          "height": 554.09375,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "scene": "play",
+      "layout": [
+        {
+          "name": "hud-left",
+          "x": 24,
+          "y": 22,
+          "width": 442.109375,
+          "height": 68,
+          "inside": true
+        },
+        {
+          "name": "hud-right",
+          "x": 975.890625,
+          "y": 22,
+          "width": 280.109375,
+          "height": 59,
+          "inside": true
+        },
+        {
+          "name": "pill quest",
+          "x": 1041,
+          "y": 102,
+          "width": 215,
+          "height": 151,
+          "inside": true
+        },
+        {
+          "name": "bottom",
+          "x": 381.09375,
+          "y": 649,
+          "width": 517.8125,
+          "height": 52,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "scene": "orders",
+      "layout": [
+        {
+          "name": "hud-left",
+          "x": 24,
+          "y": 22,
+          "width": 442.109375,
+          "height": 68,
+          "inside": true
+        },
+        {
+          "name": "hud-right",
+          "x": 975.890625,
+          "y": 22,
+          "width": 280.109375,
+          "height": 59,
+          "inside": true
+        },
+        {
+          "name": "pill quest",
+          "x": 1041,
+          "y": 102,
+          "width": 215,
+          "height": 151,
+          "inside": true
+        },
+        {
+          "name": "bottom",
+          "x": 381.09375,
+          "y": 649,
+          "width": 517.8125,
+          "height": 52,
+          "inside": true
+        },
+        {
+          "name": "panel",
+          "x": 260,
+          "y": 60,
+          "width": 760,
+          "height": 600,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "scene": "win",
+      "layout": [
+        {
+          "name": "hud-left",
+          "x": 24,
+          "y": 22,
+          "width": 442.109375,
+          "height": 68,
+          "inside": true
+        },
+        {
+          "name": "hud-right",
+          "x": 975.890625,
+          "y": 22,
+          "width": 280.109375,
+          "height": 59,
+          "inside": true
+        },
+        {
+          "name": "pill quest",
+          "x": 1041,
+          "y": 102,
+          "width": 215,
+          "height": 151,
+          "inside": true
+        },
+        {
+          "name": "bottom",
+          "x": 417.3125,
+          "y": 649,
+          "width": 445.375,
+          "height": 52,
+          "inside": true
+        },
+        {
+          "name": "panel result",
+          "x": 380,
+          "y": 123.5,
+          "width": 520,
+          "height": 473,
+          "inside": true
+        }
+      ]
+    },
+    {
+      "scene": "shop",
+      "layout": [
+        {
+          "name": "hud-left",
+          "x": 24,
+          "y": 22,
+          "width": 442.109375,
+          "height": 68,
+          "inside": true
+        },
+        {
+          "name": "hud-right",
+          "x": 975.890625,
+          "y": 22,
+          "width": 280.109375,
+          "height": 59,
+          "inside": true
+        },
+        {
+          "name": "pill quest",
+          "x": 1041,
+          "y": 102,
+          "width": 215,
+          "height": 151,
+          "inside": true
+        },
+        {
+          "name": "bottom",
+          "x": 381.09375,
+          "y": 649,
+          "width": 517.8125,
+          "height": 52,
+          "inside": true
+        },
+        {
+          "name": "panel",
+          "x": 260,
+          "y": 60,
+          "width": 760,
+          "height": 600,
+          "inside": true
+        }
+      ]
+    }
+  ]
+}

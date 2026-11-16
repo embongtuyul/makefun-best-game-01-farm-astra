@@ -1,0 +1,10 @@
+{
+  "name": "Petalpost Farm",
+  "origin": "Authored palette and geometry, informed by reference visual notes and browser capture",
+  "palette": {"meadow":"#acd695","paper":"#fff5d9","soil":"#b87957","ink":"#314e46","roof":"#ed8d8b","blossom":"#f7bbd0","water":"#8cd4d9"},
+  "materials": "Flat sticker illustration, rounded forms, thick colored outlines",
+  "lighting": "Warm daylight, gentle blue night tint, soft contact shadows",
+  "camera": "Fixed angled orthographic farm scene",
+  "ui": "Cream rounded cards, dark green type, direct object taps",
+  "motion": "Gentle plant bob, floating rewards, butterflies and rain"
+}

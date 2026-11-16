@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "errors": [],
+  "checks": [
+    "zoom buttons",
+    "cursor wheel",
+    "reset fit",
+    "background drag clamp",
+    "drag does not mine",
+    "tap mines after zoom/pan",
+    "live BTC detail without powering",
+    "close and normal power",
+    "GPU Hash detail",
+    "HQ shortcut",
+    "CZ and buddy details",
+    "empty ground closes",
+    "two-contact CDP pinch"
+  ]
+}

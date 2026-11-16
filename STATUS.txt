@@ -1,0 +1,1 @@
+Zoom/detail release complete. Camera supports 1×–3× fit zoom, wheel, pinch, clamped pan and tap-vs-drag; Detail mode gives live cards for bays, producers, buildings, CZ and BNB buddy. Full Normal win: 51.3333 seconds, 270 coins, zero console errors. Camera/details, existing feature tests, rules, edges, four captures and two external deterministic dossiers passed. Not submitted.

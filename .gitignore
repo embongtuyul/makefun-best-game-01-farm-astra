@@ -1,0 +1,5 @@
+out/
+out-second/
+node_modules/
+*.log
+verification/video/
